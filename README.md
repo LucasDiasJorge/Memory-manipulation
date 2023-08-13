@@ -5,3 +5,5 @@
 A escolha entre stack e heap em C deve ser feita com base no tamanho e escopo dos dados que estão sendo usados, bem como na velocidade necessária para a alocação e liberação de memória.
 
 https://en.wikipedia.org/wiki/Stack_overflow#:~:text=The%20most%2Dcommon%20cause%20of,of%20infinite%20recursion%20in%20C.
+
+https://www.youtube.com/watch?v=lxUYZVX_FjQ
