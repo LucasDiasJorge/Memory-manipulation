@@ -7,3 +7,5 @@ A escolha entre stack e heap em C deve ser feita com base no tamanho e escopo do
 https://en.wikipedia.org/wiki/Stack_overflow#:~:text=The%20most%2Dcommon%20cause%20of,of%20infinite%20recursion%20in%20C.
 
 https://www.youtube.com/watch?v=lxUYZVX_FjQ
+
+https://www.youtube.com/watch?app=desktop&v=_8-ht2AKyH4
